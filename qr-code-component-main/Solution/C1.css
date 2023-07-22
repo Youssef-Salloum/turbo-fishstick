@@ -1,0 +1,13 @@
+body
+{
+    background:aqua;
+}
+.card {
+    margin: auto;
+    padding: auto;
+}
+
+#QR-code-img
+{
+    padding: 13px;
+}
